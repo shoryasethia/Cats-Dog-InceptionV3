@@ -58,6 +58,11 @@ Model: "sequential_1"
 **Download My Fine Tuned InceptionV3 Model**
 - **[FineTuneInception.h5](https://drive.google.com/file/d/1aAjA-2k70iQQ19h_n7uC1GhgOUNVH0RC/view?usp=sharing)**
 - **[FineTuneInception.weight.h5](https://drive.google.com/file/d/1XCSUoCX6wIY1ObxXFzEDVQMTXMPlUeuX/view?usp=sharing)**
+- To use them run
+```
+from tensorflow.keras import models
 
-- If this repo helped in nay way, give it a like
+model = models.load_model("FineTuneInception.h5)
+```
+- If this repo helped in any way, give it a like
 - Author : [@shoryasethia](https://github.com/shoryasethia)
