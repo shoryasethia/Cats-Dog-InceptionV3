@@ -53,7 +53,8 @@ Model: "sequential_1"
  Non-trainable params: 18,191,008 (69.39 MB)
 ```
 **Got Accuracy of `0.9575660824775696` on Test Dataset**
-![Predictions](https://github.com/shoryasethia/Cats-Dog-InceptionV3/blob/main/3a551efa-a7fe-495b-a35b-7c5da67fab1c.png)
+
+# ![Predictions](https://github.com/shoryasethia/Cats-Dog-InceptionV3/blob/main/3a551efa-a7fe-495b-a35b-7c5da67fab1c.png)
 
 **Download My Fine Tuned InceptionV3 Model**
 - **[FineTuneInception.h5](https://drive.google.com/file/d/1aAjA-2k70iQQ19h_n7uC1GhgOUNVH0RC/view?usp=sharing)**
