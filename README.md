@@ -1,4 +1,11 @@
 ## Cat - Dog Classifier
+
+**Clone Repo**
+```
+git clone https://github.com/shoryasethia/Cats-Dog-InceptionV3
+cd Cats-Dog-InceptionV3
+```
+
 **Dataset :**
 - Download it from [here](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
   
