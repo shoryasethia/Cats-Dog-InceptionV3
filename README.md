@@ -10,7 +10,7 @@ cd Cats-Dog-InceptionV3
 - Download it from [here](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
   
 # **Transfer Learning**
-- Used InceptionV3 as base model
+- Used **`InceptionV3`** as base model
 ```
 from tensorflow.keras.applications.inception_v3 import InceptionV3
 
@@ -18,7 +18,7 @@ pre_trained_model = InceptionV3(input_shape = (150, 150, 3),
                                 include_top = False,              
                                 weights = None)           
 ```
-- Used weights of `Imagnet` dataset, downloaded from [here](https://github.com/fchollet/deep-learning-models/releases/download/v0.7/inception_resnet_v2_weights_tf_dim_ordering_tf_kernels_notop.h5:)
+- Used weights of **`Imagnet`** dataset, downloaded from [here](https://github.com/fchollet/deep-learning-models/releases/download/v0.7/inception_resnet_v2_weights_tf_dim_ordering_tf_kernels_notop.h5:)
 ```
 pre_trained_weights_file = 'inception_v3_weights_tf_dim_ordering_tf_kernels_notop.h5'
 
