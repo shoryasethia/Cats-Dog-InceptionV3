@@ -55,5 +55,9 @@ Model: "sequential_1"
 **Got Accuracy of `0.9575660824775696` on Test Dataset**
 ![Predictions](https://github.com/shoryasethia/Cats-Dog-InceptionV3/blob/main/some-predictions.png)
 
+**Download My Fine Tuned InceptionV3 Model**
+- **[FineTuneInception.h5](https://drive.google.com/file/d/1aAjA-2k70iQQ19h_n7uC1GhgOUNVH0RC/view?usp=sharing)**
+- **[FineTuneInception.weight.h5](https://drive.google.com/file/d/1XCSUoCX6wIY1ObxXFzEDVQMTXMPlUeuX/view?usp=sharing)**
+
 - If this repo helped in nay way, give it a like
 - Author : [@shoryasethia](https://github.com/shoryasethia)
