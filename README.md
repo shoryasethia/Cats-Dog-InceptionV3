@@ -1,5 +1,5 @@
 ## Cat - Dog Classifier
-**Dataset : **
+**Dataset :**
 - Download it from [here](https://www.microsoft.com/en-us/download/details.aspx?id=54765)
   
 # **Transfer Learning**
